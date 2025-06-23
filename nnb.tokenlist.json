@@ -1,0 +1,21 @@
+{
+  "name": "NNB Token List",
+  "logoURI": "https://raw.githubusercontent.com/niraj-inquiry/public-assets/main/download-removebg-preview.png",
+  "keywords": ["NNB", "USDT", "stablecoin"],
+  "timestamp": "2025-06-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xA3B168dF29e7Adb05Dcb3c06970d048c9045f929",
+      "name": "NNB USDT",
+      "symbol": "NNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/niraj-inquiry/public-assets/main/download-removebg-preview.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
